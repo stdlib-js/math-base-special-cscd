@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@esm/index.mjs';
+import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@v0.1.0-esm/index.mjs';
 ```
 
 #### cscd( x )
@@ -86,7 +86,7 @@ v = cscd( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@esm/index.mjs';
+import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@v0.1.0-esm/index.mjs';
 
 var x = linspace( 1.1, 5.1, 100 );
 
