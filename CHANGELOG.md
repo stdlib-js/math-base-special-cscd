@@ -2,15 +2,15 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.0">
 
-## Unreleased (2024-06-16)
+## 0.2.0 (2024-07-28)
 
 <section class="features">
 
 ### Features
 
--   [`e7938d9`](https://github.com/stdlib-js/stdlib/commit/e7938d964046b7a61dbc89d23f39daebf4545a47) - add C implementation for `math/base/special/cscd` [(##2378)](#2378)
+-   [`e7938d9`](https://github.com/stdlib-js/stdlib/commit/e7938d964046b7a61dbc89d23f39daebf4545a47) - add C implementation for `math/base/special/cscd` [(#2378)](https://github.com/stdlib-js/stdlib/pull/2378)
 
 </section>
 
@@ -22,8 +22,10 @@
 
 <details>
 
--   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(##2379)](#2379) _(by stdlib-bot, Athan Reines)_
--   [`e7938d9`](https://github.com/stdlib-js/stdlib/commit/e7938d964046b7a61dbc89d23f39daebf4545a47) - **feat:** add C implementation for `math/base/special/cscd` [(##2378)](#2378) _(by Gunj Joshi)_
+-   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
+-   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(#2379)](https://github.com/stdlib-js/stdlib/pull/2379) _(by stdlib-bot, Athan Reines)_
+-   [`e7938d9`](https://github.com/stdlib-js/stdlib/commit/e7938d964046b7a61dbc89d23f39daebf4545a47) - **feat:** add C implementation for `math/base/special/cscd` [(#2378)](https://github.com/stdlib-js/stdlib/pull/2378) _(by Gunj Joshi)_
 
 </details>
 
@@ -35,8 +37,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Athan Reines
 -   Gunj Joshi
 
