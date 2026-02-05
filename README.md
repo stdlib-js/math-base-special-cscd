@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@esm/index.mjs';
+import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@v0.2.2-esm/index.mjs';
 ```
 
 #### cscd( x )
@@ -87,7 +87,7 @@ v = cscd( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@esm/index.mjs';
+import cscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cscd@v0.2.2-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
