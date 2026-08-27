@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1ad5851`](https://github.com/stdlib-js/stdlib/commit/1ad585103d22754bf57382ef241e5f71edcbb12e) - **docs:** add equations [(#14683)](https://github.com/stdlib-js/stdlib/pull/14683) _(by Karan Anand)_
 -   [`317a098`](https://github.com/stdlib-js/stdlib/commit/317a09841e2f90177171c91d54bfcddbeb2f8629) - **test:** migrate `math/base/special/cscd` to ULP-based assertions [(#14313)](https://github.com/stdlib-js/stdlib/pull/14313) _(by Athan Reines)_
 -   [`f9d8a26`](https://github.com/stdlib-js/stdlib/commit/f9d8a26f6b9963db09a013cb359a27fb3a6ec24a) - **docs:** fix package-wide doc errors [(#12474)](https://github.com/stdlib-js/stdlib/pull/12474) _(by Philipp Burckhardt)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
