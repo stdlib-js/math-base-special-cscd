@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-27)
+## Unreleased (2026-08-28)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`85f4853`](https://github.com/stdlib-js/stdlib/commit/85f48534ef6908bbcd982d48f1c5fbea3fb7aafd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`1ad5851`](https://github.com/stdlib-js/stdlib/commit/1ad585103d22754bf57382ef241e5f71edcbb12e) - **docs:** add equations [(#14683)](https://github.com/stdlib-js/stdlib/pull/14683) _(by Karan Anand)_
 -   [`317a098`](https://github.com/stdlib-js/stdlib/commit/317a09841e2f90177171c91d54bfcddbeb2f8629) - **test:** migrate `math/base/special/cscd` to ULP-based assertions [(#14313)](https://github.com/stdlib-js/stdlib/pull/14313) _(by Athan Reines)_
 -   [`f9d8a26`](https://github.com/stdlib-js/stdlib/commit/f9d8a26f6b9963db09a013cb359a27fb3a6ec24a) - **docs:** fix package-wide doc errors [(#12474)](https://github.com/stdlib-js/stdlib/pull/12474) _(by Philipp Burckhardt)_
